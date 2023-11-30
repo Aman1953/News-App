@@ -8,6 +8,6 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="home">HOME</string>
     <string name="language">LANGUAGE</string>
-    <string name="all_news">ALL</string>
+    <string name="all_news">ALL </string>
     <string name="bk_news">BREAKING NEWS</string>
 </resources>
