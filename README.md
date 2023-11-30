@@ -5,6 +5,8 @@
 
 This is a real-time news application built using the MVVM (Model-View-ViewModel) architecture. The app provides users with up-to-date news from various sources, allowing them to stay informed on current events.
 
+**Anyone can contribute to this project!** Whether you are a developer, designer, or someone with great ideas . . .
+
 ## Features
 
 - Real-time news updates
