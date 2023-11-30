@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Current News</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="all">ALL</string>
+    <string name="breaking_news">BREAKING NEWS</string>
+    <string name="search">Search</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="home">HOME</string>
+    <string name="language">LANGUAGE</string>
+    <string name="all_news">ALL</string>
+    <string name="bk_news">BREAKING NEWS</string>
+</resources>
